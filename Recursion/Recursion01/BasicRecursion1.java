@@ -1,4 +1,3 @@
-package Recursion01;
 
 public class BasicRecursion1 {
     public static void main(String[] args) {
